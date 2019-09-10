@@ -4,9 +4,9 @@
 
 ## 网络基本概念
 
-![1567565008918](./网络基础.assets/1567565008918.png)
+![1567565008918](https://github.com/CS4Fly/NetWork/blob/master/images/1567565008918.png)
 
-![1567817913064](.\网络基础.assets\1567817913064.png)
+![1567817913064](https://github.com/CS4Fly/NetWork/blob/master/images/1567817913064.png)
 
 机柜1U=4.45cm	42U标准机柜
 
@@ -32,49 +32,49 @@
 
 - 广播
 
-  ![1567567839351](.\网络基础.assets\1567567839351.png)
+  ![1567567839351](https://github.com/CS4Fly/NetWork/blob/master/images/1567567839351.png)
 
 ### CSMA/CD协议
 
-![1567566049366](.\网络基础.assets\1567566049366.png)
+![1567566049366](https://github.com/CS4Fly/NetWork/blob/master/images/1567566049366.png)
 
-![1567566988129](.\网络基础.assets\1567566988129.png)
+![1567566988129](https://github.com/CS4Fly/NetWork/blob/master/images/1567566988129.png)
 
 ## OSI七层模型
 
-![1567569235572](.\网络基础.assets\1567569235572.png)
+![1567569235572](https://github.com/CS4Fly/NetWork/blob/master/images/1567569235572.png)
 
 ### 网络分层体系结构
 
-![1567579116318](.\网络基础.assets\1567579116318.png)
+![1567579116318](https://github.com/CS4Fly/NetWork/blob/master/images/1567579116318.png)
 
-![1567579349718](.\网络基础.assets\1567579349718.png)
+![1567579349718](https://github.com/CS4Fly/NetWork/blob/master/images/1567579349718.png)
 
 ### 封装与解封装
 
-![1567580566579](.\网络基础.assets\1567580566579.png)
+![1567580566579](https://github.com/CS4Fly/NetWork/blob/master/images/1567580566579.png)
 
-![1567580633153](.\网络基础.assets\1567580633153.png)
+![1567580633153](https://github.com/CS4Fly/NetWork/blob/master/images/1567580633153.png)
 
-![1567580673137](.\网络基础.assets\1567580673137.png)
+![1567580673137](https://github.com/CS4Fly/NetWork/blob/master/images/1567580673137.png)
 
-![1567580720519](.\网络基础.assets\1567580720519.png)
+![1567580720519](https://github.com/CS4Fly/NetWork/blob/master/images/1567580720519.png)
 
-![1567580753844](.\网络基础.assets\1567580753844.png)
+![1567580753844](https://github.com/CS4Fly/NetWork/blob/master/images/1567580753844.png)
 
 # TCP/IP协议
 
-![1567582210934](.\网络基础.assets\1567582210934.png)
+![1567582210934](https://github.com/CS4Fly/NetWork/blob/master/images/1567582210934.png)
 
-![1567582231741](.\网络基础.assets\1567582231741.png)
+![1567582231741](https://github.com/CS4Fly/NetWork/blob/master/images/1567582231741.png)
 
-![1567582268707](.\网络基础.assets\1567582268707.png)
+![1567582268707](https://github.com/CS4Fly/NetWork/blob/master/images/1567582268707.png)
 
-![1567582552007](.\网络基础.assets\1567582552007.png)
+![1567582552007](https://github.com/CS4Fly/NetWork/blob/master/images/1567582552007.png)
 
 ### IP数据报
 
-![1567582913854](.\网络基础.assets\1567582913854.png)
+![1567582913854](https://github.com/CS4Fly/NetWork/blob/master/images/1567582913854.png)
 
 版本	占4 bit，指IP协议的版本，目前的IP协议版本号为4（即IPv4）
 
@@ -103,21 +103,21 @@
 
 ### IP地址
 
-![1567583463066](.\网络基础.assets\1567583463066.png)
+![1567583463066](https://github.com/CS4Fly/NetWork/blob/master/images/1567583463066.png)
 
-![1567585092724](.\网络基础.assets\1567585092724.png)
+![1567585092724](https://github.com/CS4Fly/NetWork/blob/master/images/1567585092724.png)
 
-![1567585325604](.\网络基础.assets\1567585325604.png)
+![1567585325604](https://github.com/CS4Fly/NetWork/blob/master/images/1567585325604.png)
 
-![1567585340953](.\网络基础.assets\1567585340953.png)
+![1567585340953](https://github.com/CS4Fly/NetWork/blob/master/images/1567585340953.png)
 
-![1567585353922](.\网络基础.assets\1567585353922.png)
+![1567585353922](https://github.com/CS4Fly/NetWork/blob/master/images/1567585353922.png)
 
 ### 子网划分
 
 #### 等分子网划分
 
-![1567586685784](.\网络基础.assets\1567586685784.png)
+![1567586685784](https://github.com/CS4Fly/NetWork/blob/master/images/1567586685784.png)
 
 #### 可变长子网掩码 VLSM
 
@@ -164,7 +164,7 @@ ICMP定义了很多信息类型，例如：
 
 ![1567653762094](C:\Users\LD\AppData\Roaming\Typora\typora-user-images\1567653762094.png)
 
-![1567652822718](.\网络基础.assets\1567652822718.png)
+![1567652822718](https://github.com/CS4Fly/NetWork/blob/master/images/1567652822718.png)
 
 ### tracert 路由追踪
 
@@ -200,7 +200,7 @@ ICMP定义了很多信息类型，例如：
 
 ### TCP报头
 
-![1567672670837](.\网络基础.assets\1567672670837.png)
+![1567672670837](https://github.com/CS4Fly/NetWork/blob/master/images/1567672670837.png)
 
 **确认比特ACK**     只有当 ACK = 1时确认号字段才有效。当ACK=0时，确认号无效。**确认号ack=序号+1**
 
@@ -232,41 +232,41 @@ TCP的连接和建立都是采用客户服务器方式。
 
 ### TCP建立连接	三次握手
 
-![1567672921205](.\网络基础.assets\1567672921205.png)
+![1567672921205](https://github.com/CS4Fly/NetWork/blob/master/images/1567672921205.png)
 
 ### TCP释放连接	四次挥手
 
-![1567673395797](.\网络基础.assets\1567673395797.png)
+![1567673395797](https://github.com/CS4Fly/NetWork/blob/master/images/1567673395797.png)
 
 ### TCP可靠传输机制
 
 #### 传输确认
 
-![1567673621800](.\网络基础.assets\1567673621800.png)
+![1567673621800](https://github.com/CS4Fly/NetWork/blob/master/images/1567673621800.png)
 
 #### TCP确认号和序列号
 
-![1567673646823](.\网络基础.assets\1567673646823.png)
+![1567673646823](https://github.com/CS4Fly/NetWork/blob/master/images/1567673646823.png)
 
 #### 超时重传
 
-![1567673692567](.\网络基础.assets\1567673692567.png)
+![1567673692567](https://github.com/CS4Fly/NetWork/blob/master/images/1567673692567.png)
 
 #### 固定窗口
 
-![1567673723363](.\网络基础.assets\1567673723363.png)
+![1567673723363](https://github.com/CS4Fly/NetWork/blob/master/images/1567673723363.png)
 
 #### 滑动窗口
 
-![1567673743079](.\网络基础.assets\1567673743079.png)
+![1567673743079](https://github.com/CS4Fly/NetWork/blob/master/images/1567673743079.png)
 
 #### 流量控制
 
-![1567673802260](.\网络基础.assets\1567673802260.png)
+![1567673802260](https://github.com/CS4Fly/NetWork/blob/master/images/1567673802260.png)
 
 ### UDP报头
 
-![1567674080505](.\网络基础.assets\1567674080505.png)
+![1567674080505](https://github.com/CS4Fly/NetWork/blob/master/images/1567674080505.png)
 
 ### 应用层协议
 
@@ -274,9 +274,9 @@ TCP的连接和建立都是采用客户服务器方式。
 
 - tcp 53 udp 53
 
-  ![1567674062883](.\网络基础.assets\1567674062883.png)
+  ![1567674062883](https://github.com/CS4Fly/NetWork/blob/master/images/1567674062883.png)
 
-![img](.\网络基础.assets\$B@M}ED_Z31_IREKEX]5[EO.jpg)
+![img](https://github.com/CS4Fly/NetWork/blob/master/images/$B@M}ED_Z31_IREKEX]5[EO.jpg)
 
 #### 资源记录和区域文件
 
@@ -299,7 +299,7 @@ PTR资源记录
 
 #### DNS域名解析完整过程
 
-![1567675579032](.\网络基础.assets\1567675579032.png)
+![1567675579032](https://github.com/CS4Fly/NetWork/blob/master/images/1567675579032.png)
 
 访问web.microsoft.com
 
@@ -330,7 +330,7 @@ PTR资源记录
 
 ##### 租约过程--四线会话
 
-![1567674933298](.\网络基础.assets\1567674933298.png)
+![1567674933298](https://github.com/CS4Fly/NetWork/blob/master/images/1567674933298.png)
 
 1. **DHCP Discover（广播）**
 
@@ -350,13 +350,13 @@ PTR资源记录
 
    **租约过87.5%，广播服务器请求IP；**
 
-   ![1567675042721](.\网络基础.assets\1567675042721.png)
+   ![1567675042721](https://github.com/CS4Fly/NetWork/blob/master/images/1567675042721.png)
 
 ### 主机间通信过程
 
 #### 以太网MAC地址（第8个比特位）
 
-![1567676219453](.\网络基础.assets\1567676219453.png)
+![1567676219453](https://github.com/CS4Fly/NetWork/blob/master/images/1567676219453.png)
 
 #### 二层主机通信过程
 
@@ -455,7 +455,7 @@ ctrl + shift + 6  停止域名解析，防止输入时发生错误
   - 主主
   - 互为主备：不同业务的主备
 
-![1567836883902](.\网络基础.assets\1567836883902.png)
+![1567836883902](https://github.com/CS4Fly/NetWork/blob/master/images/1567836883902.png)
 
 - 主备
 
@@ -480,7 +480,7 @@ ospf 算法**需要进程**，**应用层**，又工作在**网络层**
 - 内部网关协议 IGP
 - 外部网关协议 EGP
 
-![1567847191349](.\网络基础.assets\1567847191349.png)
+![1567847191349](https://github.com/CS4Fly/NetWork/blob/master/images/1567847191349.png)
 
 **收敛**：网络从不稳定状态到达一个稳定状态的所用时间。称为收敛速度。
 
@@ -505,7 +505,7 @@ ospf 算法**需要进程**，**应用层**，又工作在**网络层**
 - v1无法携带掩码；广播
 - V2携带掩码，支持VLSM和CIDR；组播方式，224.0.0.9；
 
-![1567844492472](.\网络基础.assets\1567844492472.png)
+![1567844492472](https://github.com/CS4Fly/NetWork/blob/master/images/1567844492472.png)
 
 更新原则：
 
@@ -532,21 +532,21 @@ router ospf 1 设置ospf进程
 
 **根据链路状态选择最佳路径**
 
-![1567845804756](.\网络基础.assets\1567845804756.png)
+![1567845804756](https://github.com/CS4Fly/NetWork/blob/master/images/1567845804756.png)
 
-![1567846027391](.\网络基础.assets\1567846027391.png)
+![1567846027391](https://github.com/CS4Fly/NetWork/blob/master/images/1567846027391.png)
 
 Router ID最好手动配置，如果由路由器自动选举，当IP地址发生改变时又需要重新收敛，导致延时，所以最好手动配置。
 
 #### 骨干区
 
-![1567847259028](.\网络基础.assets\1567847259028.png)
+![1567847259028](https://github.com/CS4Fly/NetWork/blob/master/images/1567847259028.png)
 
-![1567847677899](.\网络基础.assets\1567847677899.png)
+![1567847677899](https://github.com/CS4Fly/NetWork/blob/master/images/1567847677899.png)
 
 骨干路由器
 
-![1567847628707](.\网络基础.assets\1567847628707.png)
+![1567847628707](https://github.com/CS4Fly/NetWork/blob/master/images/1567847628707.png)
 
 #### DR和BDR选举
 
@@ -554,13 +554,13 @@ DR和BDR是针对网段而言的
 
 DR通过 224.0.0.5 组播回应
 
-![1567847943892](.\网络基础.assets\1567847943892.png)
+![1567847943892](https://github.com/CS4Fly/NetWork/blob/master/images/1567847943892.png)
 
-![1567848036895](.\网络基础.assets\1567848036895.png)
+![1567848036895](https://github.com/CS4Fly/NetWork/blob/master/images/1567848036895.png)
 
-![1567848085077](.\网络基础.assets\1567848085077.png)
+![1567848085077](https://github.com/CS4Fly/NetWork/blob/master/images/1567848085077.png)
 
-![1567848530883](.\网络基础.assets\1567848530883.png)
+![1567848530883](https://github.com/CS4Fly/NetWork/blob/master/images/1567848530883.png)
 
 #### 优势
 
@@ -568,13 +568,13 @@ DR通过 224.0.0.5 组播回应
 
 #### OSPF报文类型
 
-![1567990581485](.\网络基础.assets\1567990581485.png)
+![1567990581485](https://github.com/CS4Fly/NetWork/blob/master/images/1567990581485.png)
 
 #### 区域内路由计算（LSA类型）
 
-![1567990863771](.\网络基础.assets\1567990863771.png)
+![1567990863771](https://github.com/CS4Fly/NetWork/blob/master/images/1567990863771.png)
 
-![1567990977992](.\网络基础.assets\1567990977992.png)
+![1567990977992](https://github.com/CS4Fly/NetWork/blob/master/images/1567990977992.png)
 
 
 
@@ -633,17 +633,17 @@ VLAN1：默认VLAN，特殊的VLAN，管理VLAN
 
 dot1q
 
-![1567994482492](.\网络基础.assets\1567994482492.png)
+![1567994482492](https://github.com/CS4Fly/NetWork/blob/master/images/1567994482492.png)
 
 #### 交换机接口模式
 
 1. Access接口
 
-   ![1567996385984](.\网络基础.assets\1567996385984.png)
+   ![1567996385984](https://github.com/CS4Fly/NetWork/blob/master/images/1567996385984.png)
 
 2. trunk接口
 
-   ![1567996523431](.\网络基础.assets\1567996523431.png)
+   ![1567996523431](https://github.com/CS4Fly/NetWork/blob/master/images/1567996523431.png)
 
 sw#vlan database
 
@@ -664,13 +664,13 @@ sw#vlan # name xxx
 - 复杂的拓扑将导致多个环路的产生
 - 第二层将没有机制停止环路的产生（**有没有环路看逻辑架构，不看物理架构**）
 
-![1568018150661](.\网络基础.assets\1568018150661.png)
+![1568018150661](https://github.com/CS4Fly/NetWork/blob/master/images/1568018150661.png)
 
 ##### 工作原理
 
 **只有一个根桥**
 
-![1568018250615](.\网络基础.assets\1568018250615.png)
+![1568018250615](https://github.com/CS4Fly/NetWork/blob/master/images/1568018250615.png)
 
 ##### 算法
 
@@ -687,7 +687,7 @@ sw#vlan # name xxx
 
 ##### 网桥ID
 
-![1568018597365](.\网络基础.assets\1568018597365.png)
+![1568018597365](https://github.com/CS4Fly/NetWork/blob/master/images/1568018597365.png)
 
 **选举只看桥ID**；
 
@@ -701,13 +701,13 @@ sw#vlan # name xxx
 
 ##### 端口ID
 
-![1568019408265](.\网络基础.assets\1568019408265.png)
+![1568019408265](https://github.com/CS4Fly/NetWork/blob/master/images/1568019408265.png)
 
 先比较端口ID的优先级，再比较端口编号；数值越小，优先级越高；
 
 ##### - 根网桥的选择
 
-![1568019692657](.\网络基础.assets\1568019692657.png)
+![1568019692657](https://github.com/CS4Fly/NetWork/blob/master/images/1568019692657.png)
 
 ##### - 根端口的选举
 
@@ -725,7 +725,7 @@ sw#vlan # name xxx
 
 ##### 端口状态
 
-![1568021904484](.\网络基础.assets\1568021904484.png)
+![1568021904484](https://github.com/CS4Fly/NetWork/blob/master/images/1568021904484.png)
 
 - 阻塞状态：只接收BPDU，不发送BPDU
 - 阻塞-->侦听-->学习-->转发（大概50s）
@@ -755,13 +755,13 @@ sw#vlan # name xxx
 
 ##### MSTP 多生成树协议
 
-![1568022969292](.\网络基础.assets\1568022969292.png)
+![1568022969292](https://github.com/CS4Fly/NetWork/blob/master/images/1568022969292.png)
 
 ##### 三种模式的区别
 
-![1568023042543](.\网络基础.assets\1568023042543.png)
+![1568023042543](https://github.com/CS4Fly/NetWork/blob/master/images/1568023042543.png)
 
-![1568023064975](.\网络基础.assets\1568023064975.png)
+![1568023064975](https://github.com/CS4Fly/NetWork/blob/master/images/1568023064975.png)
 
 ### 高可用性
 
@@ -787,9 +787,9 @@ sw#vlan # name xxx
 
 用作数据审计、数据分析；并不能对数据进行控制；
 
-![1568087558145](.\网络基础.assets\1568087558145.png)
+![1568087558145](https://github.com/CS4Fly/NetWork/blob/master/images/1568087558145.png)
 
-![1568087916737](.\网络基础.assets\1568087916737.png)
+![1568087916737](https://github.com/CS4Fly/NetWork/blob/master/images/1568087916737.png)
 
 # 访问控制列表
 
@@ -809,9 +809,9 @@ ACL的工作原理：读取第三层及第四层包头中的信息，根据预�
 
 默认策略:隐含拒绝
 
-![1568099132478](.\网络基础.assets\1568099132478.png)
+![1568099132478](https://github.com/CS4Fly/NetWork/blob/master/images/1568099132478.png)
 
-![1568099404647](.\网络基础.assets\1568099404647.png)
+![1568099404647](https://github.com/CS4Fly/NetWork/blob/master/images/1568099404647.png)
 
 #### Deny和permit命令
 
@@ -833,19 +833,19 @@ Access-list 1 permit **0.0.0.0 255.255.255.255** （也可以写成**any**）
 
 ### ！ 检查过程
 
-![1568100232051](.\网络基础.assets\1568100232051.png)
+![1568100232051](https://github.com/CS4Fly/NetWork/blob/master/images/1568100232051.png)
 
-![1568100439091](.\网络基础.assets\1568100439091.png)
+![1568100439091](https://github.com/CS4Fly/NetWork/blob/master/images/1568100439091.png)
 
 ### 访问控制列表的配置
 
-![1568103586455](.\网络基础.assets\1568103586455.png)
+![1568103586455](https://github.com/CS4Fly/NetWork/blob/master/images/1568103586455.png)
 
 #### 插入ACL条目
 
-![1568104170769](.\网络基础.assets\1568104170769.png)
+![1568104170769](https://github.com/CS4Fly/NetWork/blob/master/images/1568104170769.png)
 
 #### 删除ACL条目
 
-![1568104235568](.\网络基础.assets\1568104235568.png)
+![1568104235568](https://github.com/CS4Fly/NetWork/blob/master/images/1568104235568.png)
 
